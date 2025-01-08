@@ -1,6 +1,6 @@
 title: Paleo Data Knowledge Hub
 description: All the paleo data best practices that are fit to print
-remote_theme: just-the-docs/just-the-docs@v0.4.0.rc4
+theme: just-the-docs
 
 url: https://adamancer.github.io/geo-ose-test/
 
