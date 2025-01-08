@@ -2,7 +2,7 @@
 title: Vocabularies for chronostratigraphy
 layout: default
 nav_order: 2
-parent: Sharing data
+parent: Controlled vocabularies
 has_children: false
 ---
 

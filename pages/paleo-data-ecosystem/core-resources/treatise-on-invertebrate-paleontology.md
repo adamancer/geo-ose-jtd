@@ -2,7 +2,7 @@
 title: Treatise on Invertebrate Paleontology
 layout: default
 nav_order: 10
-parent: Paleo data ecosystem
+parent: Core resources
 has_children: false
 ---
 

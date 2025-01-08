@@ -2,7 +2,7 @@
 title: Latimer Core
 layout: default
 nav_order: 3
-parent: Sharing data
+parent: Data standards
 has_children: false
 ---
 

@@ -2,7 +2,7 @@
 title: Global Names Architecture
 layout: default
 nav_order: 4
-parent: Paleo data ecosystem
+parent: Core resources
 has_children: false
 ---
 

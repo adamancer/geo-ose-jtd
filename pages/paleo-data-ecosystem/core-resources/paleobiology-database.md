@@ -2,7 +2,7 @@
 title: Paleobiology Database
 layout: default
 nav_order: 6
-parent: Paleo data ecosystem
+parent: Core resources
 has_children: false
 ---
 

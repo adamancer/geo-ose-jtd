@@ -2,7 +2,7 @@
 title: Georeferencing
 layout: default
 nav_order: 2
-parent: Managing data
+parent: Data about places
 has_children: false
 ---
 

@@ -2,7 +2,7 @@
 title: Vocabularies for morphology
 layout: default
 nav_order: 3
-parent: Sharing data
+parent: Controlled vocabularies
 has_children: false
 ---
 

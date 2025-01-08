@@ -1,11 +1,11 @@
 ---
-title: Data about taxonomy
+title: Data about places
 layout: default
-nav_order: 1
+nav_order: 0
 parent: Managing data
-has_children: false
+has_children: true
 ---
 
-# Data about taxonomy
+# Data about places
 
 Overview of topics in this section

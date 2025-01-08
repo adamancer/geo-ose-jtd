@@ -2,7 +2,7 @@
 title: ABCD EFG
 layout: default
 nav_order: 4
-parent: Sharing data
+parent: Data standards
 has_children: false
 ---
 

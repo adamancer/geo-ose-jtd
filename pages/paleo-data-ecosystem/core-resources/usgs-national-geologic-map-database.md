@@ -2,7 +2,7 @@
 title: USGS National Geologic Map Database
 layout: default
 nav_order: 11
-parent: Paleo data ecosystem
+parent: Core resources
 has_children: false
 ---
 

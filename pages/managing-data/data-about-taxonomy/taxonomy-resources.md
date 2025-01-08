@@ -2,7 +2,7 @@
 title: Taxonomy resources
 layout: default
 nav_order: 2
-parent: Managing data
+parent: Data about taxonomy
 has_children: false
 ---
 

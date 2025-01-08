@@ -2,7 +2,7 @@
 title: Chronostratigraphy
 layout: default
 nav_order: 3
-parent: Managing data
+parent: Data about places
 has_children: false
 ---
 

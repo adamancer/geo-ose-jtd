@@ -2,7 +2,7 @@
 title: TaxonWorks
 layout: default
 nav_order: 9
-parent: Paleo data ecosystem
+parent: Core resources
 has_children: false
 ---
 

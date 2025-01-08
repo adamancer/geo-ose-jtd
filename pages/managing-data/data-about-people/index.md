@@ -3,7 +3,7 @@ title: Data about people
 layout: default
 nav_order: 8
 parent: Managing data
-has_children: false
+has_children: true
 ---
 
 # Data about people

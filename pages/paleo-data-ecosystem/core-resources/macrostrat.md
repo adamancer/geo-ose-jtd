@@ -2,7 +2,7 @@
 title: Macrostrat
 layout: default
 nav_order: 5
-parent: Paleo data ecosystem
+parent: Core resources
 has_children: false
 ---
 

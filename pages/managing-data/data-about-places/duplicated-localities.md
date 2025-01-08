@@ -2,7 +2,7 @@
 title: Duplicated localities
 layout: default
 nav_order: 6
-parent: Managing data
+parent: Data about places
 has_children: false
 ---
 
