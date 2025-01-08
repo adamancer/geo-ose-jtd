@@ -1,7 +1,7 @@
 ---
 title: Data about taxonomy
 layout: default
-nav_order: 1
+nav_order: 10
 parent: Managing data
 has_children: true
 ---

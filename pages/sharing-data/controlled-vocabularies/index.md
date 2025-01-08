@@ -1,7 +1,7 @@
 ---
 title: Controlled vocabularies
 layout: default
-nav_order: 1
+nav_order: 2
 parent: Sharing data
 has_children: true
 ---

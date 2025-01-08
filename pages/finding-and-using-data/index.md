@@ -1,7 +1,7 @@
 ---
 title: Finding and using data
 layout: default
-nav_order: 0
+nav_order: 6
 has_children: true
 ---
 

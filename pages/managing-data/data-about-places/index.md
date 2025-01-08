@@ -1,7 +1,7 @@
 ---
 title: Data about places
 layout: default
-nav_order: 0
+nav_order: 9
 parent: Managing data
 has_children: true
 ---
