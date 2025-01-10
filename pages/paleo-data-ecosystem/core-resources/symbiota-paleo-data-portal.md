@@ -4,6 +4,7 @@ layout: default
 nav_order: 8
 parent: Core resources
 has_children: false
+tags: portal
 ---
 
 # Symbiota Paleo Data Portal

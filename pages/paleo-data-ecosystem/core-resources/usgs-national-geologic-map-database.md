@@ -4,6 +4,7 @@ layout: default
 nav_order: 11
 parent: Core resources
 has_children: false
+tags: portal
 ---
 
 # USGS National Geologic Map Database

@@ -4,6 +4,7 @@ layout: default
 nav_order: 4
 parent: Data standards
 has_children: false
+tags: data standard
 ---
 
 # ABCD EFG

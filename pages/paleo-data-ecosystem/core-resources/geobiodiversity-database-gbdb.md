@@ -4,6 +4,7 @@ layout: default
 nav_order: 3
 parent: Core resources
 has_children: false
+tags: portal
 ---
 
 # Geobiodiversity Database (GBDB)

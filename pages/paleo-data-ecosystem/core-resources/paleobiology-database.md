@@ -4,6 +4,7 @@ layout: default
 nav_order: 6
 parent: Core resources
 has_children: false
+tags: portal
 ---
 
 # Paleobiology Database
