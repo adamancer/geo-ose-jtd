@@ -5,4 +5,4 @@ theme: just-the-docs
 url: https://adamancer.github.io/geo-ose-test/
 
 aux_links: # remove if you don't want this link to appear on your pages
-  Template Repository: https://github.com/adamancer/geo-ose-test
+  Template Repository: https://github.com/adamancer/geo-ose-jtd
